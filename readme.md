@@ -36,5 +36,14 @@ Metode **PUT** digunakan untuk memperbarui data stok barang yang sudah ada di da
 ## 🗑️ DELETE
 Metode **DELETE** digunakan untuk menghapus data stok barang dari database berdasarkan ID tertentu. Jika ID yang dikirimkan valid, maka data akan dihapus secara permanen dari tabel `stock_barang`.
 
+
+## 🧪 Software Quality Assurance
+Proyek ini digunakan sebagai objek pengujian API dengan dokumentasi QA berupa:
+- Test Plan
+- Test Cases
+- Bug Report
+- Test Report
+
+
 ✅ Kesimpulan
 REST API ini berhasil dibangun menggunakan Framework CodeIgniter dengan menerapkan konsep RESTful Web Service dan arsitektur MVC. Seluruh operasi CRUD pada data stok barang dapat diakses melalui endpoint API dan diuji menggunakan Postman. Proyek ini menunjukkan bahwa CodeIgniter mampu digunakan untuk membangun layanan API yang terstruktur, sederhana, dan mudah dikembangkan.
